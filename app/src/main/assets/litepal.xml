@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname values="weather_now"/>
+    <version values="1"/>
+    <list>
+        <mapping class="com.example.asus.weathernow.db.City"/>
+        <mapping class="com.example.asus.weathernow.db.County"/>
+        <mapping class="com.example.asus.weathernow.db.Province"/>
+    </list>
+</litepal>
